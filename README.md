@@ -2,9 +2,11 @@
 
  <div>
    <a href="https://github.com/MarceloClash">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloClash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ 
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloClash&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="3500px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 </div>
+
 
     
 <div style="display: inline_block"><br>
@@ -14,9 +16,8 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="3500px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
-<h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D73CCEBD&random=false&width=435&lines=Ol%C3%A1%2C+pessoal+da+Tech+!+%3D)" alt="Typing SVG" /></a> </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=kanit&weight=600&duration=5001&pause=1000&color=D73CCEBD&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&height=52&separator=%3C&lines=Ola+Pessoal+Da+Tech+%3D%3E%7B%3CObrigado+Por+Fazer+Parte+Do+Time%7D;%3Cconsole.log(Full-Stack)" alt="Typing SVG" /></a>
 
 <br>
 <p> Sou programador Frontend e realizo desenvolvimento de Sistemas Web, Aplicativos, Páginas e Softwares. </p>
