@@ -41,3 +41,17 @@ Para conteúdo sobre programação, me siga nas redes abaixo!
   <a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marceloluizdeoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+<div>Oi pessoal,
+
+Gostaria de convidar vocês para se conectar comigo no LinkedIn! Estou sempre compartilhando atualizações sobre meus projetos e conteúdos sobre programação. 
+
+👉 [Meu perfil no LinkedIn](https://www.linkedin.com/in/marceloluizdeoliveira)
+
+Abraços,
+Marcelo
+</div>
+
+
+
+
+
